@@ -23,9 +23,14 @@ Relationship between horsepower and MPG
 Distribution of vehicles based on origin
 
 📈 Key Insights
-Vehicles with higher horsepower tend to have lower fuel efficiency
-Fuel efficiency varies significantly across vehicles
-Vehicle distribution differs across regions of origin
+- Vehicles with higher horsepower tend to have lower fuel efficiency
+- Fuel efficiency varies significantly across vehicles
+- Vehicle distribution differs across regions of origin
+- Heavier vehicles tend to have lower fuel efficiency  
+- Older vehicles show different efficiency trends compared to newer ones
+
+📁 Dataset  
+Dataset sourced from publicly available vehicle dataset (mpg dataset).
 
 🚀 Future Improvements
 Apply machine learning models for prediction
