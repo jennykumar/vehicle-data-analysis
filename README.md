@@ -31,6 +31,8 @@ To analyze vehicle data and extract meaningful insights using visualization and 
 - Heavier vehicles tend to have lower fuel efficiency
 - Older vehicles show different efficiency trends compared to newer ones
 - Fuel efficiency is negatively correlated with engine power and vehicle weight
+- Strong correlations exist between engine-related features such as horsepower and displacement
+- These insights can help manufacturers improve fuel efficiency and optimize vehicle design.
 
 💡 Skills Demonstrated
 - Data Analysis
@@ -46,8 +48,8 @@ To analyze vehicle data and extract meaningful insights using visualization and 
 📂 Project Structure
 vehicle_data_analysis.ipynb – Jupyter notebook with full analysis
 
-📁 Dataset  
-Dataset used is publicly available and used for learning and analysis purposes
+📁 Dataset   
+Dataset used is publicly available / synthetically generated for learning purposes.Dataset used is publicly available and used for learning and analysis purposes
 
 📌 Status
 ✅ Completed
