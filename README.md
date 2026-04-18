@@ -19,9 +19,10 @@ To analyze vehicle data and extract meaningful insights using visualization and 
 - Analyzed relationships between variables
 
 📊 Analysis & Visualizations
-- Distribution of fuel efficiency (MPG)
-- Relationship between horsepower and MPG
-- Distribution of vehicles based on origin
+- Distribution of fuel efficiency (MPG)  
+- Relationship between horsepower and MPG  
+- Distribution of vehicles based on origin  
+- Correlation analysis between numerical features
 
 📈 Key Insights
 - Vehicles with higher horsepower tend to have lower fuel efficiency
@@ -29,6 +30,7 @@ To analyze vehicle data and extract meaningful insights using visualization and 
 - Vehicle distribution differs across regions of origin
 - Heavier vehicles tend to have lower fuel efficiency
 - Older vehicles show different efficiency trends compared to newer ones
+- Fuel efficiency is negatively correlated with engine power and vehicle weight
 
 💡 Skills Demonstrated
 - Data Analysis
@@ -44,5 +46,9 @@ To analyze vehicle data and extract meaningful insights using visualization and 
 📂 Project Structure
 vehicle_data_analysis.ipynb – Jupyter notebook with full analysis
 
+📁 Dataset  
+Dataset used is publicly available and used for learning and analysis purposes
+
 📌 Status
 ✅ Completed
+This project was developed as part of hands-on learning in data analysis.
