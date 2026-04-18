@@ -51,6 +51,9 @@ vehicle_data_analysis.ipynb – Jupyter notebook with full analysis
 📁 Dataset   
 Dataset used is publicly available / synthetically generated for learning purposes.Dataset used is publicly available and used for learning and analysis purposes
 
+📌 Conclusion  
+The analysis reveals key relationships between vehicle characteristics and fuel efficiency, providing insights useful for optimization and design decisions.
+
 📌 Status
 ✅ Completed
 This project was developed as part of hands-on learning in data analysis.
